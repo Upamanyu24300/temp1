@@ -13,13 +13,23 @@ import os
 
 app = FastAPI()
 
+
+# Get frontend URL from environment
+frontend_url = os.getenv("FRONTEND_URL", "http://localhost:3000")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Or use ["http://localhost:5173"] for tighter control
+    allow_origins=[
+        frontend_url,
+        "http://localhost:3000",
+        "https://frontend-production-a166.up.railway.app"  # Your actual frontend URL
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
 
 @app.get("/")
 def root():
