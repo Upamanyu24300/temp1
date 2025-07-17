@@ -8,6 +8,8 @@ from emissions_logic import get_yoy_emissions
 from emissions_logic import get_emission_intensity
 from emissions_logic import get_emission_hotspot
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
+import os
 
 app = FastAPI()
 
