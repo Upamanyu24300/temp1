@@ -8,4 +8,13 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+
+  server: {
+    host: '0.0.0.0',
+    port: 3000
+  },
+  define: {
+    // Replace with your Railway backend URL after deployment
+    __API_URL__: JSON.stringify(process.env.VITE_API_URL || 'http://localhost:8000')
+  }
 })
