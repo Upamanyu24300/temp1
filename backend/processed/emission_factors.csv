@@ -1,0 +1,247 @@
+material,unit,value,source,location,start_date,end_date
+Anthracite Coal,tCO2/t,1.044,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Iron Scrap,tCO2/KL,2.849,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Petroleum Coke,tCO2/KL,1.39,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Bituminous Coal,tCO2/KL,3.084,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Calcined Petroleum Coke,tCO2/t,2.036,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Limestone,tCO2/t,3.087,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Natural Gas,tCO2/t,2.425,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Fuel Oil,tCO2/t,2.539,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Diesel,tCO2/t,1.757,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+LPG,tCO2/t,3.346,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Kerosene,tCO2/KL,2.255,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Low Carbon Steel,tCO2/t,1.486,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Ferrochrome,tCO2/Nm3,2.124,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Ferro Manganese,tCO2/Nm3,0.071,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Ferro Silicon,tCO2/KL,1.058,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Silico Manganese,tCO2/KL,2.312,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Coke Oven Gas,tCO2/KL,1.018,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Blast Furnace Gas,tCO2/Nm3,2.165,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+BOF Gas,tCO2/KL,1.503,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Coal Tar,tCO2/KL,0.478,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Pitch,tCO2/t,1.047,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+EAF Electrodes,tCO2/KL,1.997,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Dolomite,tCO2/Nm3,2.07,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Crude Dolomite,tCO2/KL,2.012,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+HFO,tCO2/KL,2.288,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Lubricating Oil,tCO2/t,2.284,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Hydraulic Oil,tCO2/t,1.512,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Transformer Oil,tCO2/KL,3.138,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Ethylene,tCO2/KL,1.289,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Methane,tCO2/Nm3,1.528,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Acetylene,tCO2/KL,3.122,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Oxygen,tCO2/Nm3,2.822,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Argon,tCO2/Nm3,2.465,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Nitrogen,tCO2/KL,0.354,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Ammonia,tCO2/Nm3,3.219,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Propane,tCO2/Nm3,2.501,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Biomass Briquettes,tCO2/t,3.496,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Charcoal,tCO2/KL,0.526,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Plastic Waste Fuel,tCO2/KL,3.039,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Wood Chips,tCO2/KL,0.572,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Firewood,tCO2/Nm3,2.156,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Carbon Black,tCO2/KL,0.437,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Steel Scrap,tCO2/KL,2.969,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Recycled Oil,tCO2/KL,2.826,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Spent Solvents,tCO2/Nm3,1.994,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Waste Lubricants,tCO2/t,1.428,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+High Speed Diesel,tCO2/KL,0.246,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Mineral Turpentine Oil,tCO2/t,2.442,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Glycerine,tCO2/KL,1.59,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Process Gas Mix,tCO2/KL,2.528,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Producer Gas,tCO2/Nm3,3.033,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Sponge Iron,tCO2/t,3.414,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Mill Scale,tCO2/Nm3,2.996,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Hot Metal,tCO2/t,0.045,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Refractory Waste,tCO2/Nm3,1.262,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Carbon Paste,tCO2/t,2.556,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Waste Tyres,tCO2/Nm3,0.604,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Used Oils,tCO2/t,1.826,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Coolant Fluids,tCO2/t,0.194,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Sludge Cake,tCO2/t,0.703,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Non-condensable Gases,tCO2/t,0.069,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Combustible Residue,tCO2/KL,2.779,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Industrial Grease,tCO2/Nm3,0.787,IPCC 2006 Guidelines,Central Steel Plant,2023-01-01,2023-03-31
+Anthracite Coal,tCO2/t,1.044,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Iron Scrap,tCO2/KL,2.849,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Petroleum Coke,tCO2/KL,1.39,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Bituminous Coal,tCO2/KL,3.084,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Calcined Petroleum Coke,tCO2/t,2.036,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Limestone,tCO2/t,3.087,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Natural Gas,tCO2/t,2.425,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Fuel Oil,tCO2/t,2.539,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Diesel,tCO2/t,1.757,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+LPG,tCO2/t,3.346,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Kerosene,tCO2/KL,2.255,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Low Carbon Steel,tCO2/t,1.486,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Ferrochrome,tCO2/Nm3,2.124,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Ferro Manganese,tCO2/Nm3,0.071,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Ferro Silicon,tCO2/KL,1.058,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Silico Manganese,tCO2/KL,2.312,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Coke Oven Gas,tCO2/KL,1.018,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Blast Furnace Gas,tCO2/Nm3,2.165,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+BOF Gas,tCO2/KL,1.503,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Coal Tar,tCO2/KL,0.478,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Pitch,tCO2/t,1.047,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+EAF Electrodes,tCO2/KL,1.997,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Dolomite,tCO2/Nm3,2.07,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Crude Dolomite,tCO2/KL,2.012,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+HFO,tCO2/KL,2.288,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Lubricating Oil,tCO2/t,2.284,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Hydraulic Oil,tCO2/t,1.512,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Transformer Oil,tCO2/KL,3.138,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Ethylene,tCO2/KL,1.289,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Methane,tCO2/Nm3,1.528,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Acetylene,tCO2/KL,3.122,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Oxygen,tCO2/Nm3,2.822,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Argon,tCO2/Nm3,2.465,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Nitrogen,tCO2/KL,0.354,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Ammonia,tCO2/Nm3,3.219,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Propane,tCO2/Nm3,2.501,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Biomass Briquettes,tCO2/t,3.496,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Charcoal,tCO2/KL,0.526,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Plastic Waste Fuel,tCO2/KL,3.039,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Wood Chips,tCO2/KL,0.572,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Firewood,tCO2/Nm3,2.156,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Carbon Black,tCO2/KL,0.437,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Steel Scrap,tCO2/KL,2.969,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Recycled Oil,tCO2/KL,2.826,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Spent Solvents,tCO2/Nm3,1.994,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Waste Lubricants,tCO2/t,1.428,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+High Speed Diesel,tCO2/KL,0.246,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Mineral Turpentine Oil,tCO2/t,2.442,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Glycerine,tCO2/KL,1.59,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Process Gas Mix,tCO2/KL,2.528,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Producer Gas,tCO2/Nm3,3.033,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Sponge Iron,tCO2/t,3.414,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Mill Scale,tCO2/Nm3,2.996,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Hot Metal,tCO2/t,0.045,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Refractory Waste,tCO2/Nm3,1.262,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Carbon Paste,tCO2/t,2.556,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Waste Tyres,tCO2/Nm3,0.604,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Used Oils,tCO2/t,1.826,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Coolant Fluids,tCO2/t,0.194,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Sludge Cake,tCO2/t,0.703,IPCC 2006 Guidelines,Central Steel Plant,2023-04-01,2023-06-30
+Anthracite Coal,tCO2/t,1.044,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Iron Scrap,tCO2/KL,2.849,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Petroleum Coke,tCO2/KL,1.39,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Bituminous Coal,tCO2/KL,3.084,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Calcined Petroleum Coke,tCO2/t,2.036,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Limestone,tCO2/t,3.087,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Natural Gas,tCO2/t,2.425,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Fuel Oil,tCO2/t,2.539,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Diesel,tCO2/t,1.757,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+LPG,tCO2/t,3.346,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Kerosene,tCO2/KL,2.255,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Low Carbon Steel,tCO2/t,1.486,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Ferrochrome,tCO2/Nm3,2.124,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Ferro Manganese,tCO2/Nm3,0.071,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Ferro Silicon,tCO2/KL,1.058,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Silico Manganese,tCO2/KL,2.312,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Coke Oven Gas,tCO2/KL,1.018,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Blast Furnace Gas,tCO2/Nm3,2.165,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+BOF Gas,tCO2/KL,1.503,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Coal Tar,tCO2/KL,0.478,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Pitch,tCO2/t,1.047,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+EAF Electrodes,tCO2/KL,1.997,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Dolomite,tCO2/Nm3,2.07,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Crude Dolomite,tCO2/KL,2.012,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+HFO,tCO2/KL,2.288,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Lubricating Oil,tCO2/t,2.284,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Hydraulic Oil,tCO2/t,1.512,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Transformer Oil,tCO2/KL,3.138,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Ethylene,tCO2/KL,1.289,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Methane,tCO2/Nm3,1.528,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Acetylene,tCO2/KL,3.122,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Oxygen,tCO2/Nm3,2.822,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Argon,tCO2/Nm3,2.465,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Nitrogen,tCO2/KL,0.354,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Ammonia,tCO2/Nm3,3.219,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Propane,tCO2/Nm3,2.501,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Biomass Briquettes,tCO2/t,3.496,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Charcoal,tCO2/KL,0.526,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Plastic Waste Fuel,tCO2/KL,3.039,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Wood Chips,tCO2/KL,0.572,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Firewood,tCO2/Nm3,2.156,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Carbon Black,tCO2/KL,0.437,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Steel Scrap,tCO2/KL,2.969,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Recycled Oil,tCO2/KL,2.826,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Spent Solvents,tCO2/Nm3,1.994,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Waste Lubricants,tCO2/t,1.428,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+High Speed Diesel,tCO2/KL,0.246,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Mineral Turpentine Oil,tCO2/t,2.442,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Glycerine,tCO2/KL,1.59,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Process Gas Mix,tCO2/KL,2.528,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Producer Gas,tCO2/Nm3,3.033,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Sponge Iron,tCO2/t,3.414,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Mill Scale,tCO2/Nm3,2.996,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Hot Metal,tCO2/t,0.045,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Refractory Waste,tCO2/Nm3,1.262,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Carbon Paste,tCO2/t,2.556,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Waste Tyres,tCO2/Nm3,0.604,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Used Oils,tCO2/t,1.826,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Coolant Fluids,tCO2/t,0.194,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Sludge Cake,tCO2/t,0.703,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Non-condensable Gases,tCO2/t,0.069,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Combustible Residue,tCO2/KL,2.779,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Industrial Grease,tCO2/Nm3,0.787,IPCC 2006 Guidelines,Central Steel Plant,2024-01-01,2024-03-31
+Anthracite Coal,tCO2/t,1.044,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Iron Scrap,tCO2/KL,2.849,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Petroleum Coke,tCO2/KL,1.39,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Bituminous Coal,tCO2/KL,3.084,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Calcined Petroleum Coke,tCO2/t,2.036,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Limestone,tCO2/t,3.087,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Natural Gas,tCO2/t,2.425,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Fuel Oil,tCO2/t,2.539,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Diesel,tCO2/t,1.757,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+LPG,tCO2/t,3.346,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Kerosene,tCO2/KL,2.255,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Low Carbon Steel,tCO2/t,1.486,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Ferrochrome,tCO2/Nm3,2.124,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Ferro Manganese,tCO2/Nm3,0.071,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Ferro Silicon,tCO2/KL,1.058,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Silico Manganese,tCO2/KL,2.312,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Coke Oven Gas,tCO2/KL,1.018,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Blast Furnace Gas,tCO2/Nm3,2.165,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+BOF Gas,tCO2/KL,1.503,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Coal Tar,tCO2/KL,0.478,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Pitch,tCO2/t,1.047,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+EAF Electrodes,tCO2/KL,1.997,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Dolomite,tCO2/Nm3,2.07,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Crude Dolomite,tCO2/KL,2.012,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+HFO,tCO2/KL,2.288,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Lubricating Oil,tCO2/t,2.284,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Hydraulic Oil,tCO2/t,1.512,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Transformer Oil,tCO2/KL,3.138,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Ethylene,tCO2/KL,1.289,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Methane,tCO2/Nm3,1.528,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Acetylene,tCO2/KL,3.122,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Oxygen,tCO2/Nm3,2.822,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Argon,tCO2/Nm3,2.465,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Nitrogen,tCO2/KL,0.354,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Ammonia,tCO2/Nm3,3.219,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Propane,tCO2/Nm3,2.501,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Biomass Briquettes,tCO2/t,3.496,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Charcoal,tCO2/KL,0.526,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Plastic Waste Fuel,tCO2/KL,3.039,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Wood Chips,tCO2/KL,0.572,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Firewood,tCO2/Nm3,2.156,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Carbon Black,tCO2/KL,0.437,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Steel Scrap,tCO2/KL,2.969,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Recycled Oil,tCO2/KL,2.826,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Spent Solvents,tCO2/Nm3,1.994,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Waste Lubricants,tCO2/t,1.428,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+High Speed Diesel,tCO2/KL,0.246,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Mineral Turpentine Oil,tCO2/t,2.442,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Glycerine,tCO2/KL,1.59,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Process Gas Mix,tCO2/KL,2.528,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Producer Gas,tCO2/Nm3,3.033,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Sponge Iron,tCO2/t,3.414,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Mill Scale,tCO2/Nm3,2.996,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Hot Metal,tCO2/t,0.045,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Refractory Waste,tCO2/Nm3,1.262,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Carbon Paste,tCO2/t,2.556,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Waste Tyres,tCO2/Nm3,0.604,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Used Oils,tCO2/t,1.826,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Coolant Fluids,tCO2/t,0.194,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30
+Sludge Cake,tCO2/t,0.703,IPCC 2006 Guidelines,Central Steel Plant,2024-04-01,2024-06-30

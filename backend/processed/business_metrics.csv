@@ -1,0 +1,73 @@
+date,metric_name,value
+2023-01-01,Tons of Steel Produced,47000
+2023-01-01,Number of Employees,958
+2023-01-01,Production Hours,7300
+2023-02-01,Tons of Steel Produced,49000
+2023-02-01,Number of Employees,966
+2023-02-01,Production Hours,7400
+2023-03-01,Tons of Steel Produced,49500
+2023-03-01,Number of Employees,974
+2023-03-01,Production Hours,7500
+2023-04-01,Tons of Steel Produced,51500
+2023-04-01,Number of Employees,982
+2023-04-01,Production Hours,7600
+2023-05-01,Tons of Steel Produced,53500
+2023-05-01,Number of Employees,990
+2023-05-01,Production Hours,7700
+2023-06-01,Tons of Steel Produced,54000
+2023-06-01,Number of Employees,998
+2023-06-01,Production Hours,7800
+2023-07-01,Tons of Steel Produced,56000
+2023-07-01,Number of Employees,1006
+2023-07-01,Production Hours,7900
+2023-08-01,Tons of Steel Produced,58000
+2023-08-01,Number of Employees,1014
+2023-08-01,Production Hours,8000
+2023-09-01,Tons of Steel Produced,58500
+2023-09-01,Number of Employees,1022
+2023-09-01,Production Hours,8100
+2023-10-01,Tons of Steel Produced,60500
+2023-10-01,Number of Employees,1030
+2023-10-01,Production Hours,8200
+2023-11-01,Tons of Steel Produced,62500
+2023-11-01,Number of Employees,1038
+2023-11-01,Production Hours,8300
+2023-12-01,Tons of Steel Produced,63000
+2023-12-01,Number of Employees,1046
+2023-12-01,Production Hours,8400
+2024-01-01,Tons of Steel Produced,49200
+2024-01-01,Number of Employees,989
+2024-01-01,Production Hours,7510
+2024-02-01,Tons of Steel Produced,51400
+2024-02-01,Number of Employees,998
+2024-02-01,Production Hours,7620
+2024-03-01,Tons of Steel Produced,51800
+2024-03-01,Number of Employees,1007
+2024-03-01,Production Hours,7730
+2024-04-01,Tons of Steel Produced,54000
+2024-04-01,Number of Employees,1016
+2024-04-01,Production Hours,7840
+2024-05-01,Tons of Steel Produced,56200
+2024-05-01,Number of Employees,1025
+2024-05-01,Production Hours,7950
+2024-06-01,Tons of Steel Produced,56600
+2024-06-01,Number of Employees,1034
+2024-06-01,Production Hours,8060
+2024-07-01,Tons of Steel Produced,58800
+2024-07-01,Number of Employees,1043
+2024-07-01,Production Hours,8170
+2024-08-01,Tons of Steel Produced,61000
+2024-08-01,Number of Employees,1052
+2024-08-01,Production Hours,8280
+2024-09-01,Tons of Steel Produced,61400
+2024-09-01,Number of Employees,1061
+2024-09-01,Production Hours,8390
+2024-10-01,Tons of Steel Produced,63600
+2024-10-01,Number of Employees,1070
+2024-10-01,Production Hours,8500
+2024-11-01,Tons of Steel Produced,65800
+2024-11-01,Number of Employees,1079
+2024-11-01,Production Hours,8610
+2024-12-01,Tons of Steel Produced,66200
+2024-12-01,Number of Employees,1088
+2024-12-01,Production Hours,8720
