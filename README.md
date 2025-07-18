@@ -24,21 +24,17 @@ A comprehensive full-stack web application that empowers companies to calculate,
 | 🎨 **Frontend** | [Live App](https://frontend-production-a166.up.railway.app/) | React + NGINX Production |
 | 🔧 **Backend API** | [Swagger UI](https://temp1-production-434b.up.railway.app/docs) | FastAPI Documentation & Testing |
 
-## 🎥 Demo Video
+## 📸 Screenshots
 
-> **To embed the video directly in README**: Edit this README.md file on GitHub's web interface, then drag and drop your `videos/recording.mp4` file directly into the editor. GitHub will automatically upload it and generate a URL like `https://github.com/user-attachments/assets/...` that will display the video inline.
+<div align="center">
 
-**Current video location**: `/videos/recording.mp4`
+### Application Interface
+<img src="screenshots/ss1.png" alt="Carbon Emissions Tracker - Main Dashboard" width="80%">
 
-**Steps to embed:**
-1. Go to your GitHub repository
-2. Click "Edit" on README.md 
-3. Drag and drop `videos/recording.mp4` into the editor
-4. Wait for upload completion
-5. GitHub will generate the embedded video URL automatically
-6. Save the file
+### Features Overview
+<img src="screenshots/ss2.png" alt="Carbon Emissions Tracker - Analytics & Reports" width="80%">
 
-Once embedded, the video will play directly in the README for all visitors!
+</div>
 
 ## 🚀 Quick Start
 
@@ -109,8 +105,9 @@ carbon-emission-tracker/
 │   ├── docker-compose.yml     # Docker orchestration
 │   ├── frontend.Dockerfile    # Frontend container config
 │   └── backend.Dockerfile     # Backend container config
-├── 🎥 videos/
-│   └── recording.mp4          # Application demo video
+├── 📸 screenshots/
+│   ├── ss1.png               # Main dashboard screenshot
+│   └── ss2.png               # Analytics & reports screenshot
 └── 📖 README.md
 ```
 
