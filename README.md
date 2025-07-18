@@ -30,8 +30,6 @@ A comprehensive full-stack web application that empowers companies to calculate,
 
 ### Application Interface
 <img src="screenshots/ss1.png" alt="Carbon Emissions Tracker - Main Dashboard" width="80%">
-
-### Features Overview
 <img src="screenshots/ss2.png" alt="Carbon Emissions Tracker - Analytics & Reports" width="80%">
 
 </div>
